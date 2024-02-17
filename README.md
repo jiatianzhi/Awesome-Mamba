@@ -32,5 +32,4 @@
 
 ----
 
-- P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [[arxiv]](https://arxiv.org/pdf/2402.08506.pdf)
 - nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model [[arxiv]](https://arxiv.org/pdf/2402.03526.pdf) [[code]](https://github.com/lhaof/nnMamba)
