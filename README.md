@@ -4,13 +4,13 @@
 
 ## Mamba
 
-- Mamba: Linear-Time Sequence Modeling with Selective State Spaces [[arxiv]]() [[code]]()
+- Mamba: Linear-Time Sequence Modeling with Selective State Spaces [[arxiv]](https://arxiv.org/pdf/2312.00752.pdf) [[code]](https://github.com/state-spaces/mamba)
 
 ## Computer Vision
 
-- Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [[arxiv]](https://arxiv.org/pdf/2401.09417.pdf) [[code]](https://github.com/kyegomez/VisionMamba)
+- Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [[arxiv]](https://arxiv.org/pdf/2401.09417.pdf) [[code1]](https://github.com/hustvl/Vim) [[code2]](https://github.com/kyegomez/VisionMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
-- Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[arxiv]](https://arxiv.org/pdf/2402.05892.pdf) [[code]]()
+- Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[arxiv]](https://arxiv.org/pdf/2402.05892.pdf)
 
 ----
 
